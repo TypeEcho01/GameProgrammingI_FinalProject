@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GameProgrammingI_FinalProject/GameProgrammingI_FinalProject.csproj" />
+  <Project Path="GameProgrammingI_MonoGameLibrary/GameProgrammingI_MonoGameLibrary.csproj" />
+</Solution>
